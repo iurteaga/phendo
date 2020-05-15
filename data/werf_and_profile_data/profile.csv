@@ -1,0 +1,78 @@
+id,participant_id,question_id,question_label,entry_date,str_value,double_value,parent_id,is_edited
+8749,1,250,What is your current height?,NULL,5.1,NULL,NULL,0
+8750,1,280,What is your current weight?,NULL,NULL,NULL,124,0
+8751,1,260,Do you have endometriosis?,NULL,yes_know_symptoms_no_doctor,NULL,NULL,0
+8752,1,270,Have you had any periods in the last three months?,NULL,yes,NULL,NULL,0
+8755,1,202,What is your race/ethnicity?,NULL,"white,_non-hispanic",NULL,NULL,0
+8756,1,203,What is your highest level of education?,NULL,high_school_grad_or_under,NULL,NULL,0
+8760,1,207,What is your living environment?,NULL,rural,NULL,NULL,0
+8875,2,250,What is your current height?,NULL,5.7,NULL,NULL,0
+8876,2,280,What is your current weight?,NULL,NULL,NULL,66,0
+8877,2,260,Do you have endometriosis?,NULL,yes_know_symptoms_no_doctor,NULL,NULL,0
+8878,2,270,Have you had any periods in the last three months?,NULL,yes,NULL,NULL,0
+8881,2,202,What is your race/ethnicity?,NULL,"white,_non-hispanic",NULL,NULL,0
+8882,2,203,What is your highest level of education?,NULL,high_school_grad_or_under,NULL,NULL,0
+8886,2,207,What is your living environment?,NULL,urban,NULL,NULL,0
+8889,3,250,What is your current height?,NULL,5.5,NULL,NULL,0
+8890,3,280,What is your current weight?,NULL,NULL,NULL,169,0
+8891,3,260,Do you have endometriosis?,NULL,yes_diagnosed_surgery,NULL,NULL,0
+8892,3,270,Have you had any periods in the last three months?,NULL,no,NULL,NULL,0
+8895,3,202,What is your race/ethnicity?,NULL,"white,_non-hispanic",NULL,NULL,0
+8896,3,203,What is your highest level of education?,NULL,college_+,NULL,NULL,0
+8900,3,207,What is your living environment?,NULL,suburban,NULL,NULL,0
+8945,4,250,What is your current height?,NULL,5.7,NULL,NULL,0
+8946,4,280,What is your current weight?,NULL,NULL,NULL,187,0
+8947,4,260,Do you have endometriosis?,NULL,yes_diagnosed_surgery,NULL,NULL,0
+8948,4,270,Have you had any periods in the last three months?,NULL,yes,NULL,NULL,0
+8951,4,202,What is your race/ethnicity?,NULL,"white,_non-hispanic",NULL,NULL,0
+8952,4,203,What is your highest level of education?,NULL,some_college,NULL,NULL,0
+8956,4,207,What is your living environment?,NULL,suburban,NULL,NULL,0
+8975,5,250,What is your current height?,NULL,5.5,NULL,NULL,0
+8976,5,280,What is your current weight?,NULL,NULL,NULL,180,0
+8977,5,260,Do you have endometriosis?,NULL,yes_diagnosed_surgery,NULL,NULL,0
+8978,5,270,Have you had any periods in the last three months?,NULL,yes,NULL,NULL,0
+8981,5,202,What is your race/ethnicity?,NULL,"white,_non-hispanic",NULL,NULL,0
+8982,5,203,What is your highest level of education?,NULL,high_school_grad_or_under,NULL,NULL,0
+8986,5,207,What is your living environment?,NULL,suburban,NULL,NULL,0
+9031,6,250,What is your current height?,NULL,5.4,NULL,NULL,0
+9032,6,280,What is your current weight?,NULL,NULL,NULL,137,0
+9033,6,260,Do you have endometriosis?,NULL,yes_know_symptoms_no_doctor,NULL,NULL,0
+9034,6,270,Have you had any periods in the last three months?,NULL,yes,NULL,NULL,0
+9037,6,202,What is your race/ethnicity?,NULL,"white,_non-hispanic",NULL,NULL,0
+9038,6,203,What is your highest level of education?,NULL,some_college,NULL,NULL,0
+9042,6,207,What is your living environment?,NULL,suburban,NULL,NULL,0
+9050,7,250,What is your current height?,NULL,5.2,NULL,NULL,0
+9051,7,280,What is your current weight?,NULL,NULL,NULL,176,0
+9052,7,260,Do you have endometriosis?,NULL,yes_diagnosed_surgery,NULL,NULL,0
+9053,7,270,Have you had any periods in the last three months?,NULL,yes,NULL,NULL,0
+9056,7,202,What is your race/ethnicity?,NULL,"white,_non-hispanic",NULL,NULL,0
+9057,7,203,What is your highest level of education?,NULL,college_+,NULL,NULL,0
+9061,7,207,What is your living environment?,NULL,suburban,NULL,NULL,0
+9083,8,250,What is your current height?,NULL,5.7,NULL,NULL,0
+9084,8,280,What is your current weight?,NULL,NULL,NULL,140,0
+9085,8,260,Do you have endometriosis?,NULL,yes_diagnosed_surgery,NULL,NULL,0
+9086,8,270,Have you had any periods in the last three months?,NULL,yes,NULL,NULL,0
+9089,8,202,What is your race/ethnicity?,NULL,"white,_non-hispanic",NULL,NULL,0
+9090,8,203,What is your highest level of education?,NULL,college_+,NULL,NULL,0
+9094,8,207,What is your living environment?,NULL,rural,NULL,NULL,0
+9120,9,250,What is your current height?,NULL,5.2,NULL,NULL,0
+9121,9,280,What is your current weight?,NULL,NULL,NULL,110,0
+9122,9,260,Do you have endometriosis?,NULL,yes_know_symptoms_no_doctor,NULL,NULL,0
+9123,9,270,Have you had any periods in the last three months?,NULL,yes,NULL,NULL,0
+9126,9,202,What is your race/ethnicity?,NULL,"white,_non-hispanic",NULL,NULL,0
+9127,9,203,What is your highest level of education?,NULL,high_school_grad_or_under,NULL,NULL,0
+9131,9,207,What is your living environment?,NULL,rural,NULL,NULL,0
+9140,10,250,What is your current height?,NULL,5.5,NULL,NULL,0
+9141,10,280,What is your current weight?,NULL,NULL,NULL,143,0
+9142,10,260,Do you have endometriosis?,NULL,yes_know_symptoms_no_doctor,NULL,NULL,0
+9143,10,270,Have you had any periods in the last three months?,NULL,yes,NULL,NULL,0
+9146,10,202,What is your race/ethnicity?,NULL,"white,_non-hispanic",NULL,NULL,0
+9147,10,203,What is your highest level of education?,NULL,high_school_grad_or_under,NULL,NULL,0
+9151,10,207,What is your living environment?,NULL,urban,NULL,NULL,0
+9185,20,250,What is your current height?,NULL,5.5,NULL,NULL,0
+9186,20,280,What is your current weight?,NULL,NULL,NULL,250,0
+9187,20,260,Do you have endometriosis?,NULL,yes_know_symptoms_no_doctor,NULL,NULL,0
+9188,20,270,Have you had any periods in the last three months?,NULL,yes,NULL,NULL,0
+9191,20,202,What is your race/ethnicity?,NULL,"white,_non-hispanic",NULL,NULL,0
+9192,20,203,What is your highest level of education?,NULL,high_school_grad_or_under,NULL,NULL,0
+9196,20,207,What is your living environment?,NULL,urban,NULL,NULL,0
