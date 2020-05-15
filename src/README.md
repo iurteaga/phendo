@@ -18,18 +18,12 @@ The following src code assumes that ../data contains all the pre-processed data,
 Specifically:
 
 - ../data/q_ids_njdm contains the pre-processed data, in the following format:
-    - f_emission.pickle
-        pickled dictionary indicating, for each question id, which distribution (multinomial) and its dimensionality
-    - X.pickle:
-        pickled numpy array indicating, for each participant (row) the data-source specific vocabulary id each data point (column) corresponds to
-    - XD.pickle
-        pickled numpy array indicating, for each participant (row) the data-source id each data point (column) corresponds to
-    - data_participant_ids
-        numpy array that maps each row (participant) in the preprocessed data to its corresponding phendo id
-    - n_observations_matrix
-        numpy array that contains for each participant (row) the number of observations per data-source id (column)
-    - n_days_matrix
-        numpy array that contains for each participant (row) the number of days per data-source id (column)
+    - f_emission.pickle: pickled dictionary indicating, for each question id, which distribution (multinomial) and its dimensionality
+    - X.pickle: pickled numpy array indicating, for each participant (row) the data-source specific vocabulary id each data point (column) corresponds to
+    - XD.pickle: pickled numpy array indicating, for each participant (row) the data-source id each data point (column) corresponds to
+    - data_participant_ids: numpy array that maps each row (participant) in the preprocessed data to its corresponding phendo id
+    - n_observations_matrix: numpy array that contains for each participant (row) the number of observations per data-source id (column)
+    - n_days_matrix: numpy array that contains for each participant (row) the number of days per data-source id (column)
 
 - ../data/q_ids_njdm/vocab describes the mapping from vocabulary id to phendo response
 - ../data/q_ids_njdm/vocab_ordered describes a more intuitive ordering of phendo vocabulary responses
@@ -76,3 +70,6 @@ To evaluate, given some expert grouping files, the confusion matrices with the l
 
 - python3 eval_selected_participants.py
 
+## SI clustering alternatives
+
+- python3 clustering_alternatives.py
