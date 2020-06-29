@@ -13,7 +13,7 @@ Phendo is available at:
 
 ### doc
 
-- doc/npjDigitalMedicine: manuscript as published in npj Digital Medicine
+- doc/npjDigitalMedicine2020: manuscript and supplementary information as published in npj Digital Medicine: https://www.nature.com/articles/s41746-020-0292-9
 
 ### src
 
